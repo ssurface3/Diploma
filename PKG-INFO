@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: YieldCurve
+Version: 0.1
+Summary: A simple package to compute yield curves
+Author: Deez nuts
+Dynamic: author
+Dynamic: summary
